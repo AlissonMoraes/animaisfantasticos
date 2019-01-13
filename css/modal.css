@@ -1,6 +1,7 @@
 @media (max-width: 760px) {
  .js .modal {
     padding: 0.8rem;
+    min-width: 14em;
   }
 }
 
