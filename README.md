@@ -1,2 +1,2 @@
 # Animais Fantasticos - Projeto do curso da Origamid
-Desenvolvido em html5, css3 e javascript.
+Site estático desenvolvido em HTML5 e CSS3 com algumas animações em javascript.
